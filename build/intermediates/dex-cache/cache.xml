@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/cmss/Documents/Court-Counter-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/home/cmss/Documents/Court-Counter-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_8cf89b09f72afc06ff3f96b08ce0c70fada354e6.jar" />
+    </item>
+    <item
+        jar="/home/cmss/Documents/Court-Counter-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/home/cmss/Documents/Court-Counter-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.0_148fe74a7fc90974599f3cce3f5bc7d0a453bfb4.jar" />
+    </item>
+    <item
+        jar="/home/cmss/Documents/Court-Counter-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/home/cmss/Documents/Court-Counter-master/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.0_079671ef8adf2f2c9ba758671816a0c73c676c9a.jar" />
+    </item>
+    <item
+        jar="/home/cmss/Documents/Court-Counter-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/home/cmss/Documents/Court-Counter-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_069fa5554674bd01fe809179441a4cb45a66f0f4.jar" />
+    </item>
+    <item
+        jar="/home/cmss/Documents/Court-Counter-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/home/cmss/Documents/Court-Counter-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.0_b4afb561ac94734c520c5a2a93df6c6c44420308.jar" />
+    </item>
+    <item
+        jar="/home/cmss/Documents/Court-Counter-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/home/cmss/Documents/Court-Counter-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_4d4a10768be46840e1bdd54625d3e12028cee5ce.jar" />
+    </item>
+    <item
+        jar="/home/cmss/Documents/Court-Counter-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/home/cmss/Documents/Court-Counter-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_630f793f96b7bf00a6bb26d20524b2f732d6ba3e.jar" />
+    </item>
+    <item
+        jar="/home/cmss/Documents/Court-Counter-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/home/cmss/Documents/Court-Counter-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.0_161833fd96c4d306273fd868cb95fc12c5971a8e.jar" />
+    </item>
+    <item
+        jar="/home/cmss/Documents/Court-Counter-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/home/cmss/Documents/Court-Counter-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_9f9fc150c40dcab680a1ce39ac7aa6f21a6a2d5b.jar" />
+    </item>
+    <item
+        jar="/home/cmss/Documents/Court-Counter-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/home/cmss/Documents/Court-Counter-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.0_a097d203a6bb7c7f798b5075977b90bea0e5415c.jar" />
+    </item>
+    <item
+        jar="/home/cmss/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/home/cmss/Documents/Court-Counter-master/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_fb38843ec7e1feae6eea0c76d802bcbd0715836f.jar" />
+    </item>
+    <item
+        jar="/home/cmss/Documents/Court-Counter-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/home/cmss/Documents/Court-Counter-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_3353f42223ca689f28e3c13469e06c8a6ab3f4e3.jar" />
+    </item>
+    <item
+        jar="/home/cmss/Documents/Court-Counter-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/home/cmss/Documents/Court-Counter-master/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.0_d424d521ecf86ab773c60232cfb7175bbefcc6d7.jar" />
+    </item>
+    <item
+        jar="/home/cmss/Documents/Court-Counter-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/home/cmss/Documents/Court-Counter-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_a1bbaf8d8049e6ceb9a50c8f9375eddc4ef1c178.jar" />
+    </item>
+    <item
+        jar="/home/cmss/Documents/Court-Counter-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/home/cmss/Documents/Court-Counter-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_233fb99758daed8d3055b92eb00fc42df65e8b96.jar" />
+    </item>
+
+</items>
